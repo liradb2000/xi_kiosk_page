@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/xi_kiosk_page/static/css/main.09890283.css",
+    "main.js": "/xi_kiosk_page/static/js/main.78f6778f.js",
+    "static/js/787.2836fa6a.chunk.js": "/xi_kiosk_page/static/js/787.2836fa6a.chunk.js",
+    "static/media/agreement.svg": "/xi_kiosk_page/static/media/agreement.7af76149fce50ee710c27c36f84e3d70.svg",
+    "static/media/bottomPattern.svg": "/xi_kiosk_page/static/media/bottomPattern.d0d5dd7821c252f20a66c6a5c8599d45.svg",
+    "static/media/quickTitle.svg": "/xi_kiosk_page/static/media/quickTitle.159826b48b2d1bc21fd98ae967166a1c.svg",
+    "static/media/logo.svg": "/xi_kiosk_page/static/media/logo.440315eb456c83c58c2797391efd5e92.svg",
+    "index.html": "/xi_kiosk_page/index.html",
+    "main.09890283.css.map": "/xi_kiosk_page/static/css/main.09890283.css.map",
+    "main.78f6778f.js.map": "/xi_kiosk_page/static/js/main.78f6778f.js.map",
+    "787.2836fa6a.chunk.js.map": "/xi_kiosk_page/static/js/787.2836fa6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09890283.css",
+    "static/js/main.78f6778f.js"
+  ]
+}
